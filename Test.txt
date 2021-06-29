@@ -1,1 +1,2 @@
 This is my first text file
+I add this thing to the first file
